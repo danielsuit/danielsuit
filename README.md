@@ -5,6 +5,7 @@ I am currently studying computer science at Northeastern University and have int
 # Skills:
 
 Programming Languages: `Python` `Java` `Javascript`
+Tools: `HTML` `CSS` `React.js` `Swift`
 
 # Profiles:
 

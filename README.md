@@ -9,6 +9,9 @@ Programming Languages: `Python` `Java` `Javascript`
 # Profiles:
 
 [Codeforeces](https://codeforces.com/profile/danielsuit)
+[LeetCode](https://leetcode.com/u/danielsuit/)
+[HackerRank](https://www.hackerrank.com/profile/dsuit888)
+[Codewars](https://www.codewars.com/users/d5s)
 
 <!--
 **danielsuit/danielsuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

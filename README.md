@@ -4,9 +4,9 @@ I am currently studying computer science at Northeastern University and have int
 
 # Skills:
 
-Programming Languages: `Python` `Java` `Javascript`
+Programming Languages: `Python` `Java` `Javascript` `Kotlin`
 
-Tools: `HTML` `CSS` `React.js` `Swift`
+Tools: `HTML` `CSS` `React.js` 
 
 # Profiles:
 

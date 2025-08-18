@@ -4,9 +4,9 @@ I am currently studying computer science at Northeastern University and have int
 
 # Skills:
 
-Programming Languages: `Python` `Java` `Javascript` `Kotlin` `C++` `Ruby` `Julia`
-Tools: `HTML` `CSS` `React.js` 
-Libraries: `scikit-learn` `pandas` `numpy` `matplotlib` `tensorflow`
+Programming Languages: `Python` `Java` `Javascript` `Kotlin` `C++` `Ruby` `Julia`  
+Tools: `HTML` `CSS` `React.js`   
+Libraries: `scikit-learn` `pandas` `numpy` `matplotlib` `tensorflow`  
 
 # Interests:
 Computer Science: algorithms, quantum computing  

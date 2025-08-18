@@ -9,11 +9,11 @@ Tools: `HTML` `CSS` `React.js`
 Libraries: `scikit-learn` `pandas` `numpy` `matplotlib` `tensorflow`
 
 # Interests:
-Computer Science: algorithms, quantum computing 
-Mathematics: linear algebra, topology, differential equations, metric spaces, 
-Physics: Newtonian physics, quantum mechanics, particle physics
-Machine Learning: LTSM, forecasting, time-series analysis
-Data Science: visualization
+Computer Science: algorithms, quantum computing  
+Mathematics: linear algebra, topology, differential equations, metric spaces,  
+Physics: Newtonian physics, quantum mechanics, particle physics  
+Machine Learning: LTSM, forecasting, time-series analysis  
+Data Science: visualization  
 Finance: financial derivatives, investments
 <!--
 **danielsuit/danielsuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

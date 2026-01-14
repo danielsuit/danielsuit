@@ -1,31 +1,41 @@
 ## Hi there, I'm Daniel 👋
 
-I am currently studying computer science at Northeastern University and have interests in quantitative finance. I have strong passions for computer science, mathematics, physics, machine learning, data science, and finance. Below you can find more information about specific areas.
+I’m a computer science student at **Northeastern University** passionate about building performant systems and exploring how computation drives modern finance. My interests bridge **systems design**, **quantitative development**, and **applied mathematics** — combining deep technical understanding with data-driven decision making.
 
-# Skills:
+---
 
-Programming Languages: `Python` `Java` `Javascript` `Kotlin` `C++` `Ruby` `Julia`  
-Tools: `HTML` `CSS` `React.js`   
-Libraries: `scikit-learn` `pandas` `numpy` `matplotlib` `tensorflow`  
+### 🧠 Skills
 
-# Interests:
-Computer Science: algorithms, quantum computing  
-Mathematics: linear algebra, topology, differential equations, metric spaces,  
-Physics: Newtonian physics, quantum mechanics, particle physics  
-Machine Learning: LTSM, forecasting, time-series analysis  
-Data Science: visualization  
-Finance: financial derivatives, investments
-<!--
-**danielsuit/danielsuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programming Languages:**  
+`C++` `Python` `Rust` `Java` `Julia` `Kotlin` `Javascript` `Ruby`  
 
-Here are some ideas to get you started:
+**Tools & Frameworks:**  
+`React.js` `Docker` `Linux` `Git`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Libraries & Data Packages:**  
+`pandas` `numpy` `matplotlib` `scikit-learn` `tensorflow` `PyTorch`
+
+---
+
+### ⚙️ Interests
+
+**Systems Design:**  
+Operating systems, distributed systems, low-latency architecture, storage systems, performance optimization  
+
+**Quantitative Development:**  
+Algorithmic trading systems, market microstructure, financial modeling, data-driven risk management, backtesting frameworks  
+
+**Computer Science:**  
+Compilers, concurrency and parallelism, graph algorithms, kernel-level programming  
+
+**Mathematics:**  
+Linear algebra, probability theory, stochastic calculus, optimization methods  
+
+**Finance:**  
+Derivatives pricing, portfolio optimization, factor models, asset pricing theory  
+
+**Machine Learning:**  
+Time-series forecasting, reinforcement learning for trading, feature engineering for financial data  
+
+**Physics:**  
+Classical mechanics, quantum mechanics, and computational physics

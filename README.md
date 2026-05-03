@@ -1,41 +1,22 @@
-## Hi there, I'm Daniel 👋
+## Hi, I'm Daniel
 
-I’m a computer science student at **Northeastern University** passionate about building performant systems and exploring how computation drives modern finance. My interests bridge **systems design**, **quantitative development**, and **applied mathematics** — combining deep technical understanding with data-driven decision making.
+CS student at Northeastern. I work mostly on systems and quantitative tooling — the overlap between low-level performance engineering and applied math.
+### Skills
 
----
+**Primary:** C++, Python, Rust, Java
+**Familiar:** Julia, Kotlin, JavaScript, Ruby
+**Tooling:** Linux, Docker, Git, React
+**Data/ML:** pandas, numpy, scikit-learn, PyTorch
 
-### 🧠 Skills
+### Interests
 
-**Programming Languages:**  
-`C++` `Python` `Rust` `Java` `Julia` `Kotlin` `Javascript` `Ruby`  
+**Systems** — operating systems, distributed systems, low-latency architecture,
+performance optimization.
 
-**Tools & Frameworks:**  
-`React.js` `Docker` `Linux` `Git`  
+**Quant** — algorithmic trading, market microstructure, backtesting, risk
+modeling.
 
-**Libraries & Data Packages:**  
-`pandas` `numpy` `matplotlib` `scikit-learn` `tensorflow` `PyTorch`
+**Math & finance** — probability, stochastic calculus, optimization; derivatives
+pricing and factor models.
 
----
-
-### ⚙️ Interests
-
-**Systems Design:**  
-Operating systems, distributed systems, low-latency architecture, storage systems, performance optimization  
-
-**Quantitative Development:**  
-Algorithmic trading systems, market microstructure, financial modeling, data-driven risk management, backtesting frameworks  
-
-**Computer Science:**  
-Compilers, concurrency and parallelism, graph algorithms, kernel-level programming  
-
-**Mathematics:**  
-Linear algebra, probability theory, stochastic calculus, optimization methods  
-
-**Finance:**  
-Derivatives pricing, portfolio optimization, factor models, asset pricing theory  
-
-**Machine Learning:**  
-Time-series forecasting, reinforcement learning for trading, feature engineering for financial data  
-
-**Physics:**  
-Classical mechanics, quantum mechanics, and computational physics
+**ML** — time-series forecasting and RL applied to trading.

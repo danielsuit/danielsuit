@@ -20,5 +20,3 @@ modeling.
 pricing and factor models.
 
 **ML** — time-series forecasting and RL applied to trading.
-
-[![Daniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=danielsuit)](https://github.com/stats-organization/github-stats-extended)
